@@ -21,5 +21,3 @@ export type LandingPageProps = {
   logo: LogoProps
   header: HeaderProps
 }
-
-//parei 4:36
