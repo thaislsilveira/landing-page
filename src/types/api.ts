@@ -31,5 +31,3 @@ export type LandingPageProps = {
   header: HeaderProps
   sectionAboutProject: SectionAboutProjectProps
 }
-
-// parei em 3:05
